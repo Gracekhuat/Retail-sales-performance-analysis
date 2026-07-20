@@ -2,12 +2,11 @@
 Interactive retail sales analysis using **Python, Pandas, Seaborn, Matplotlib, and Tableau Public** to identify customer purchasing patterns, sales trends, and business insights.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white)
 
 # Dashboard Preview
 <p align="center">
