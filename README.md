@@ -10,7 +10,7 @@ Interactive retail sales analysis using **Python, Pandas, Seaborn, Matplotlib, a
 
 # Dashboard Preview
 <p align="center">
-<img src="images/dashboard.png" width="100%">
+<img src="images/dashboard.png" width="10%">
 </p>
 
 # Live Dashboard
