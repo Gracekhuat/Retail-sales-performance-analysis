@@ -1,8 +1,26 @@
 # Retail Sales Performance Analysis
-Interactive retail sales analysis using Python, Pandas, and Tableau Public to identify customer purchasing patterns, sales trends, and business insights.
+Interactive retail sales analysis using **Python, Pandas, Seaborn, Matplotlib, and Tableau Public** to identify customer purchasing patterns, sales trends, and business insights.
 
-## Dashboard Preview
-![Retail Sales Dashboard](images/dashboard.png)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+# Dashboard Preview
+<p align="center">
+<img src="images/dashboard.png" width="100%">
+</p>
+
+# Live Dashboard
+
+View the interactive Tableau dashboard here:
+
+**Tableau Public**
+
+https://public.tableau.com/app/profile/thi.thanh.tam.khuat/vizzes
 
 # Project Summary
 
